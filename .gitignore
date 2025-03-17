@@ -32,8 +32,4 @@ build
 out
 
 #Idea
-*.iml
-*.iws
-*.ipr
-*.idea
-
+/.idea/
