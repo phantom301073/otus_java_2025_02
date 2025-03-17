@@ -68,5 +68,4 @@ public class Wildcard2 {
         animalList.add(null);
         animalList.forEach(animal -> logger.info("{}", animal));
     }
-
 }
